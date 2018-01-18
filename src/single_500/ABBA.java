@@ -35,7 +35,7 @@ public class ABBA {
         String revRule2 = mStrBuilder.reverse().toString();
 
         if (target.contains(rule2) || target.contains(revRule2)) {
-            return recursion(rule2, target);
+            return recursion2(rule2, target);
         }
 
         return false;
@@ -56,7 +56,7 @@ public class ABBA {
             mStrBuilder.setLength(len - 1);
             newTarget=  mStrBuilder.reverse().toString();
         }
-        return recursion2(initial, newTarget);
+        return recursion(initial, newTarget);
     }
 
     public static void main(String[] args) {
