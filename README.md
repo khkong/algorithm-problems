@@ -1,2 +1,2 @@
 # algorithm-problems
-TopCoder, CodeForce, etc.
+Algospot, TopCoder, CodeForce, etc.
