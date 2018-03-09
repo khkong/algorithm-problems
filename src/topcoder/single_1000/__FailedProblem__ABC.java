@@ -1,4 +1,4 @@
-package single_1000;
+package topcoder.single_1000;
 
 import java.util.ArrayList;
 import java.util.HashMap;

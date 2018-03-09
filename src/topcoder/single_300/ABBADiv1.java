@@ -1,6 +1,4 @@
-package single_300;
-
-import single_500.ABBA;
+package topcoder.single_300;
 
 public class ABBADiv1 {
 

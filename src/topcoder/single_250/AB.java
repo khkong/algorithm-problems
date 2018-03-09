@@ -1,4 +1,4 @@
-package single_250;
+package topcoder.single_250;
 
 public class AB {
     public String createString(int n, int k) {

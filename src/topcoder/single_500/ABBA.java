@@ -1,4 +1,4 @@
-package single_500;
+package topcoder.single_500;
 
 public class ABBA {
 

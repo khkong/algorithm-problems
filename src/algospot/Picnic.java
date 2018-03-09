@@ -1,4 +1,4 @@
-package etc;
+package algospot;
 
 import java.io.BufferedReader;
 import java.io.IOException;
