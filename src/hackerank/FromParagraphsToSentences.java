@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 
 public class FromParagraphsToSentences {
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named __FailedProblem__ProjectEuler197. */
 
         String regex = "(\".*?\".*?[\\!\\?\\.])|(.*?[\\!\\?\\.])";
         Scanner scan = new Scanner(System.in);
