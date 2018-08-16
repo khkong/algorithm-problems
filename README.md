@@ -1,2 +1,2 @@
-# algorithm-problems
+# study-algorithm
 Algospot, TopCoder, CodeForce, etc.
